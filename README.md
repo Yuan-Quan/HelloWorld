@@ -2,7 +2,15 @@
 
 My first GitHub repository.
 
-## Split Bills
+## TODO List
+
+- [ ] Move GitHub Pages to a dedicated branch
+- [x] Bills record
+~~ - [ ] Add some business advertize here ~~
+- [ ] Add google analitics to this page
+- [ ] Add page logo
+
+## Bills
 
 ### 出售給錢毓寧樂隊的無綫耳返
 
