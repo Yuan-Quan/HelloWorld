@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# HelloWorld
 
-You can use the [editor on GitHub](https://github.com/Yuan-Quan/HelloWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My first GitHub repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Split Bills
 
-### Markdown
+### 出售給錢毓寧樂隊的無綫耳返
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Total = 800 CNY
+TotalPaid = 600 CNY
 
-```markdown
-Syntax highlighted code block
+| Name | Status | Method | Amount | Note |
+| -----| ------ | ------ | ------ |  
+| 魯 | Unpaid |  |  |  |
+| 王 | Paid | Wechat Transfer | 200CNY |  |
+| 錢 | Paid | Wechat Transfer | 200CNY | 2020-08-13.19 |
+| 張 | Paid | Wechat Transfer | 200CNY | 2020-08-14.23 |
 
-# Header 1
-## Header 2
-### Header 3
+### Anonymous&翠Emerald 的無綫返聼
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuan-Quan/HelloWorld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Name | Status | Method | Amount | Note |
+| -----| ------ | ------ | ------ | ---- |
+| 張JX | Unpaid |  |  |  |
+| 袁 | Paid | InPurchase | 200CNY | Order completed |
+| 方 | Unpaid |  |  |  |
+| 莫 | Unpaid |  |  |  |
+| 阮 | Unpaid |  |  |  |
+| 鄒 | Unpaid |  |  |  |
+| 張SL | Unpaid |  |  |  |
+| 張XY | Unpaid |  |  |  |
+| 屈 | Unpaid |  |  |  |
