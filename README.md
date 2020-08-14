@@ -6,7 +6,6 @@ My first GitHub repository.
 
 - [ ] Move GitHub Pages to a dedicated branch
 - [x] Bills record
-~~ - [ ] Add some business advertize here ~~
 - [ ] Add google analitics to this page
 - [ ] Add page logo
 
