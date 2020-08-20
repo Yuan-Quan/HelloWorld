@@ -30,7 +30,7 @@ TotalPaid = 227.6 CNY
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
-| 張JX | Unpaid |  |  |  |
+| 張JX | paid | WechatTransfer | 228 | 2020-8-16.22 |
 | 袁 | Paid | InPurchase | 227.6CNY | Order completed |
 | 方 | Unpaid |  |  |  |
 | 莫 | Unpaid |  |  |  |
