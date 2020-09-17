@@ -17,7 +17,7 @@ Total = 800 CNY
 TotalPaid = 600 CNY
 
 | Name | Status | Method | Amount | Note |
-| -----| ------ | ------ | ------ |  
+| -----| ------ | ------ | ------ | ---- |  
 | 魯 | Unpaid |  |  |  |
 | 王 | Paid | Wechat Transfer | 200CNY | 2020-08-13.19 |
 | 錢 | Paid | Wechat Transfer | 200CNY | 2020-08-13.19 |
