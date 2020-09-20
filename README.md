@@ -13,8 +13,9 @@ My first GitHub repository.
 
 ### 出售給錢毓寧樂隊的無綫耳返
 
-Total = 800 CNY
-TotalPaid = 600 CNY
+Total = 800 CNY  
+AmountEach = 200 CNY
+TotalPaid = 600 CNY  
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |  
@@ -25,7 +26,8 @@ TotalPaid = 600 CNY
 
 ### Anonymous&翠Emerald 的無綫返聼
 
-Total = 2048 CNY
+Total = 2048 CNY 
+AmountEach = 227.6 CNY
 TotalPaid = 455.6 CNY
 
 | Name | Status | Method | Amount | Note |
