@@ -26,7 +26,7 @@ TotalPaid = 600 CNY
 ### Anonymous&翠Emerald 的無綫返聼
 
 Total = 2048 CNY
-TotalPaid = 227.6 CNY
+TotalPaid = 455.6 CNY
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
