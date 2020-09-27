@@ -41,3 +41,13 @@ TotalPaid = 455.6 CNY
 | 張SL | Unpaid |  |  |  |
 | 張XY | Unpaid |  |  |  |
 | 屈 | Unpaid |  |  |  |
+
+### UPS selled to ljcost
+
+Total = 2480 CNY  
+AmountEach = 2480 CNY  
+TotalPaid = 0 CNY  
+
+| Name | Status | Method | Amount | Note |
+| -----| ------ | ------ | ------ | ---- |
+| 袁GY | Unpaid |  |  |  |
