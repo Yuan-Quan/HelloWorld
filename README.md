@@ -52,3 +52,15 @@ TotalPaid = 0 CNY
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
 | 袁GY | Unpaid |  |  |  |
+
+### Top Up for 向JY
+
+Total = 1100 CNY  
+TotalPaid = 600 CNY  
+
+| Name | Status | Method | Amount | Note |
+| -----| ------ | ------ | ------ | ---- |
+| 袁.First | Paid | WechatTransfer | 600 | Sep.26 |
+| 袁.Second | Unpaid |  | 500 | Pending TopUp, low balance |
+
+## To buy
