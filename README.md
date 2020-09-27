@@ -43,7 +43,7 @@ TotalPaid = 673.2 CNY
 | 張XY | Unpaid |  |  |  |
 | 屈 | Unpaid |  |  |  |
 
-### UPS selled to ljcost
+### UPS selled to ljcost(ALL RESERVED FOR ADAM T7V)
 
 Total = 2480 CNY  
 AmountEach = 2480 CNY  
@@ -64,3 +64,10 @@ TotalPaid = 600 CNY
 | 袁.Second | Unpaid |  | 500 | Pending TopUp, low balance |
 
 ## To buy
+
+### Studio Monitor ADAM T7V
+
+Total = about 5000 CNY  
+AmountReserved = 3080 CNY  
+TotalRemain = 1920 CNY  
+
