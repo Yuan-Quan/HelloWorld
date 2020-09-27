@@ -63,11 +63,25 @@ TotalPaid = 600 CNY
 | 袁.First | Paid | WechatTransfer | 600 | Sep.26 |
 | 袁.Second | Unpaid |  | 500 | Pending TopUp, low balance |
 
-## To buy
+## To Buy
 
 ### Studio Monitor ADAM T7V
 
 Total = about 5000 CNY  
 AmountReserved = 3080 CNY  
 TotalRemain = 1920 CNY  
+
+## To Sell
+
+### 4U RackCase
+
+PriceNew = 
+PriceSell = 998
+PriceFinal =
+
+### TI84 SE Plus
+
+PriceNew = 
+PriceSell = 480
+PriceFinal =
 
