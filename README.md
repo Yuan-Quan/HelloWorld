@@ -1,6 +1,6 @@
 # HelloWorld
 
-My first GitHub repository. [GithubPage](https://yuan-quan.github.io/HelloWorld/)
+My first GitHub repository. [GithubPages](https://yuan-quan.github.io/HelloWorld/)
 
 ## TODO List
 
