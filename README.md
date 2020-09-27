@@ -28,7 +28,7 @@ TotalPaid = 600 CNY
 
 Total = 2048 CNY  
 AmountEach = 227.6 CNY  
-TotalPaid = 455.6 CNY  
+TotalPaid = 673.2 CNY  
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
