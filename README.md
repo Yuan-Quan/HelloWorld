@@ -8,6 +8,7 @@ My first GitHub repository.
 - [x] Bills record
 - [ ] Add google analitics to this page
 - [ ] Add page logo
+- [ ] Add link to GithubPages
 
 ## Bills
 
