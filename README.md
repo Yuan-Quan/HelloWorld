@@ -1,6 +1,6 @@
 # HelloWorld
 
-My first GitHub repository.
+My first GitHub repository. [GithubPage](https://yuan-quan.github.io/HelloWorld/)
 
 ## TODO List
 
@@ -8,7 +8,7 @@ My first GitHub repository.
 - [x] Bills record
 - [ ] Add google analitics to this page
 - [ ] Add page logo
-- [ ] Add link to GithubPages
+- [x] Add link to GithubPages
 
 ## Bills
 
