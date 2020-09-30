@@ -75,13 +75,12 @@ TotalRemain = 1920 CNY
 
 ### 4U RackCase
 
-PriceNew =  
+PriceNew = 1345  
 PriceSell = 998  
-PriceFinal =  
+PriceFinal = null  
 
 ### TI84 SE Plus
 
-PriceNew =   
+PriceNew = 1058   
 PriceSell = 480  
 PriceFinal =  
-
