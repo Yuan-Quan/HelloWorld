@@ -16,11 +16,11 @@ My first GitHub repository. [GithubPages](https://yuan-quan.github.io/HelloWorld
 
 Total = 800 CNY  
 AmountEach = 200 CNY  
-TotalPaid = 600 CNY  
+TotalPaid = 800 CNY  
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |  
-| 魯 | Unpaid |  |  |  |
+| 魯 | Paid | Cash | 200CNY | -- |
 | 王 | Paid | Wechat Transfer | 200CNY | 2020-08-13.19 |
 | 錢 | Paid | Wechat Transfer | 200CNY | 2020-08-13.19 |
 | 張 | Paid | Wechat Transfer | 200CNY | 2020-08-14.23 |
@@ -43,15 +43,15 @@ TotalPaid = 673.2 CNY
 | 張XY | Unpaid |  |  |  |
 | 屈 | Unpaid |  |  |  |
 
-### UPS selled to ljcost(ALL RESERVED FOR ADAM T7V)
+### UPS selled to my father
 
 Total = 2480 CNY  
 AmountEach = 2480 CNY  
-TotalPaid = 0 CNY  
+TotalPaid = 2480 CNY  
 
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
-| 袁GY | Unpaid |  |  |  |
+| 袁GY | Paid | Within allowance | 2480 |  |
 
 ### Top Up for 向JY
 
@@ -61,26 +61,13 @@ TotalPaid = 600 CNY
 | Name | Status | Method | Amount | Note |
 | -----| ------ | ------ | ------ | ---- |
 | 袁.First | Paid | WechatTransfer | 600 | Sep.26 |
-| 袁.Second | Unpaid |  | 500 | Pending TopUp, low balance |
+| 袁.Second | Paid | WechatTransfer | 500 | Soon after that, I don't remember |
 
 ## To Buy
 
-### Studio Monitor ADAM T7V
-
-Total = about 5000 CNY  
-AmountReserved = 3080 CNY  
-TotalRemain = 1920 CNY  
+None
 
 ## To Sell
 
-### 4U RackCase
+None
 
-PriceNew = 1345  
-PriceSell = 998  
-PriceFinal = null  
-
-### TI84 SE Plus
-
-PriceNew = 1058   
-PriceSell = 480  
-PriceFinal =  
